@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0006_000.yaml, hash: 'sha256:39675b71936c47f7b455ca41b00fd263944dba3ab68ce9b98ff7bdb82d746c5a'}
-  - {seq: 1, filename: KR6r0006_001.yaml, hash: 'sha256:98c7dd48f4ee660f465250b5c1c6804d109a34506aca8db3a634d76b134dc3eb'}
+  - {seq: 0, filename: KR6r0006_000.yaml, hash: 'sha256:ac23206e8fa6342769d17947353bea79c7c116cdfd3170c6b23807dca8b672ee'}
+  - {seq: 1, filename: KR6r0006_001.yaml, hash: 'sha256:102d92bfb3858d52f9dca644733cf823d502cf078493cbbef1f3a84ae034c09d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0006_000.markers.yaml, hash: 'sha256:967e91b563cccc9683f2325765485e17926f8a81fdfe83e0508e211e1c6abe31'}
-  - {seq: 1, role: markers, filename: assets/KR6r0006_001.markers.yaml, hash: 'sha256:0ce31e3530bf103ba69467bbec4b449d5a00eb3f66151f2dbd42edc51c840633'}
+  - {seq: 0, role: markers, filename: assets/KR6r0006_000.markers.yaml, hash: 'sha256:c36c4789b360c197b7df7a7f69c2213184afa503b14741768a2889683159062a'}
+  - {seq: 1, role: markers, filename: assets/KR6r0006_001.markers.yaml, hash: 'sha256:e9a5964e29f624aa73cf8feab9d24398ef9dc9fadcbac1fbc6ace867f060806e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -247,7 +247,4 @@ table_of_contents:
   label: No. 207-B 十六大阿羅漢聖蹟附(詳于法住記)
   type: mulu
   level: 1
-hash: sha256:4dd971f88b6b5b2b94cff9898461dcdcd3ca08e17a796851a2047fabe9270590
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:83792c966a92da9b0e21d110a0283befb2fcfb31e7c6a6ed06d2cd86adb138dc
