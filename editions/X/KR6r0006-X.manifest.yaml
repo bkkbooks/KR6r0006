@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0006_000-X.yaml, hash: 'sha256:ac23206e8fa6342769d17947353bea79c7c116cdfd3170c6b23807dca8b672ee'}
+  - {seq: 0, filename: KR6r0006_000-X.yaml, hash: 'sha256:9caf8b109377aedffe42dbe1b31d361954acd8490aece396acb98017f6a3cf94'}
   - {seq: 1, filename: KR6r0006_001-X.yaml, hash: 'sha256:102d92bfb3858d52f9dca644733cf823d502cf078493cbbef1f3a84ae034c09d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0006_000-X.markers.yaml, hash: 'sha256:e45f17d2dffeed50dbc9f4262211e7da3347371765ac951a517e2830e5bd9647'}
+  - {seq: 0, role: markers, filename: assets/KR6r0006_000-X.markers.yaml, hash: 'sha256:dc04f5d708ddff4f02841d6c1903d6858b2fe69e94845d6d2b951829557c3076'}
   - {seq: 1, role: markers, filename: assets/KR6r0006_001-X.markers.yaml, hash: 'sha256:89761cec4fcdca22ed6ac69309cf2245ccc71affb3083c284438e752c8c6272a'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6r0006_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 207-A 十六羅漢因果識見頌并序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0006_X_000-mulu-2
     span:
-    - front
+    - body
     - 529
     - 529
   label: 十六大阿羅漢因果識見頌
@@ -245,4 +245,4 @@ table_of_contents:
   label: No. 207-B 十六大阿羅漢聖蹟附(詳于法住記)
   type: mulu
   level: 1
-hash: sha256:3e944c63dfa79d7eef5b1629184a65f45e9a22f834b4ccb95bbb0085b20751c0
+hash: sha256:c2a9ada2e09159f4d874de3df78df7cfb9b29487f72e8a86edd0a8a130409f40
